@@ -4,17 +4,19 @@
     background-color: lightcyan;
 }
 #nav {
-    background-color: grey;
+    background-color: rgb(92, 12, 12);
 }
 #left {
     width: 29%;
     float: left;
     background-color: lightgray;
     height: 1000px;
+    <div>
+    <div>
 }
 #right {
     width: 71%;
     float: left;
-    background-color: lightpink;
+    background-color: rgb(117, 57, 57);
     height: 1000px;
 }
